@@ -2,7 +2,7 @@
   "name": "open-brain-skills",
   "private": true,
   "scripts": {
-    "skills": "node ../team-brain/scripts/skills.mjs",
-    "skills:check": "node ../team-brain/scripts/skills.mjs --check"
+    "skills": "node ../agentic-harness/scripts/skills.mjs",
+    "skills:check": "node ../agentic-harness/scripts/skills.mjs --check"
   }
 }
