@@ -1,0 +1,8 @@
+{
+  "name": "open-brain-skills",
+  "private": true,
+  "scripts": {
+    "skills": "node ../agentic-harness/scripts/skills.mjs",
+    "skills:check": "node ../agentic-harness/scripts/skills.mjs --check"
+  }
+}

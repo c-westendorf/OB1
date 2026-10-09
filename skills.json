@@ -1,0 +1,12 @@
+{
+  "sources": {
+    "./skills": [
+      "auto-capture",
+      "auto-capture-claude-code",
+      "autodream-brain-sync",
+      "deleting-thoughts",
+      "ob1-local-http",
+      "updating-thoughts"
+    ]
+  }
+}
