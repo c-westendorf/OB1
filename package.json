@@ -1,0 +1,8 @@
+{
+  "name": "open-brain-skills",
+  "private": true,
+  "scripts": {
+    "skills": "node ../team-brain/scripts/skills.mjs",
+    "skills:check": "node ../team-brain/scripts/skills.mjs --check"
+  }
+}

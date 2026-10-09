@@ -27,3 +27,8 @@ docs/walkthroughs/*/public/
 docs/assets/agent-memory/promotional/generated-backgrounds/**/result.json
 docs/assets/agent-memory/screenshots/**/.chrome-*/
 integrations/openclaw-agent-memory/dist/
+
+# Installed skills (npm run skills, from skills.json; ADR-ENG-HARNESS#D2)
+.claude/skills/*/
+.agents/skills/
+skills-lock.json
